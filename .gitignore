@@ -69,6 +69,8 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#Ignores
 Astroid avoider/[Ll]ibrary/
 Astroid avoider/[Tt]emp/
 Astroid avoider/[Oo]bj/
@@ -76,3 +78,13 @@ Astroid avoider/[Bb]uild/
 Astroid avoider/[Bb]uilds/
 Astroid avoider/[Ll]ogs/
 Astroid avoider/[Uu]ser[Ss]ettings/
+
+
+Ball launcher/[Ll]ibrary/
+Ball launcher/[Tt]emp/
+Ball launcher/[Oo]bj/
+Ball launcher/[Bb]uild/
+Ball launcher/[Bb]uilds/
+Ball launcher/[Ll]ogs/
+Ball launcher/[Uu]ser[Ss]ettings/
+
