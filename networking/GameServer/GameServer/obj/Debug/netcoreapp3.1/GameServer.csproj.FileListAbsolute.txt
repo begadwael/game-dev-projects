@@ -1,0 +1,13 @@
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.exe
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.deps.json
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.json
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.runtimeconfig.dev.json
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.dll
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\bin\Debug\netcoreapp3.1\GameServer.pdb
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csprojAssemblyReference.cache
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfoInputs.cache
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.AssemblyInfo.cs
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.csproj.CoreCompileInputs.cache
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.dll
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.pdb
+C:\Users\fatem_000\Desktop\Begad\Repos\networking\GameServer\GameServer\obj\Debug\netcoreapp3.1\GameServer.genruntimeconfig.cache
