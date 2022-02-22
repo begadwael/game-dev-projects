@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2711cd45ca3144b41b6d8d48962ff8c0, type: 3}
+  m_Name: upgrade 1
+  m_EditorClassIdentifier: 
+  levels:
+  - upgradeLevelAutoMoneyToAdd: 2
+    upgradeLevelClickMoneyToAdd: 3
+    upgradeAutoClickRate: 0.01
+  - upgradeLevelAutoMoneyToAdd: 4
+    upgradeLevelClickMoneyToAdd: 5
+    upgradeAutoClickRate: 0.025
+  - upgradeLevelAutoMoneyToAdd: 6
+    upgradeLevelClickMoneyToAdd: 7
+    upgradeAutoClickRate: 0.05
+  - upgradeLevelAutoMoneyToAdd: 8
+    upgradeLevelClickMoneyToAdd: 9
+    upgradeAutoClickRate: 0.075
+  - upgradeLevelAutoMoneyToAdd: 10
+    upgradeLevelClickMoneyToAdd: 11
+    upgradeAutoClickRate: 0.1
